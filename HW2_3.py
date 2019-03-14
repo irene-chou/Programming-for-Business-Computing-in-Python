@@ -6,11 +6,11 @@ r2 = int(input())			# const.
 
 a2 = a1 - r1 + 2*r1			# get a2
 a3 = a2 - 2*r2 + r2			# get a3
-p = int()					# price
-q = []						# demand of a3 prices
-pi = []						# profit
-p_max = c					# prince of max profit
-i = int()					# counter
+p = int()				# price
+q = []					# demand of a3 prices
+pi = []					# profit
+p_max = c				# prince of max profit
+i = int()				# counter
 
 
 ## calculate
